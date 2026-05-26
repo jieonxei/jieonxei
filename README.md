@@ -22,7 +22,7 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DFD](https://img.shields.io/badge/Data_Flow_Diagram-00599C?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 
 ## 👻 Pacman
