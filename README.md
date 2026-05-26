@@ -6,20 +6,13 @@
 <br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&weight=200&size=50&pause=1000&color=9B6AA5&center=true&vCenter=true&width=435&lines=yo+i'm+jieon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=40&duration=2500&pause=1000&color=9B6AA5&center=true&vCenter=true&width=435&lines=yo+i'm+jieon" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/dF-PYwpJP0MAAAAj/nino-nakano-pet-the-cat.gif" width="50" alt="Nino Nakano pet the cat gif">
 </p>
-
-## Pacman 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
-</picture>
 
 ## Tech Stack
 
@@ -43,4 +36,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 
+## Pacman 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
+</picture>
 
