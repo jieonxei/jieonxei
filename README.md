@@ -44,3 +44,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jieonxei&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
