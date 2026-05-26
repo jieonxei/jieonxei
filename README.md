@@ -1,9 +1,38 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/view/nino-nakano-pet-the-cat-gif-25671364" width="100" />
+  <img src="https://media1.tenor.com/m/eN7atrf02IUAAAAC/the-quintessential-quintuplets-gotoubun-no-hanayome.gif" width="200">
 </div>
 
+<br></br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&weight=200&size=50&pause=1000&color=9B6AA5&center=true&vCenter=true&width=435&lines=yo+i'm+jieon+:P" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://media.tenor.com/dF-PYwpJP0MAAAAj/nino-nakano-pet-the-cat.gif" width="50" alt="Nino Nakano pet the cat gif">
+</p>
+
+<p align="center" style="text-decoration:none;>
+  <a href="https://www.facebook.com/luhanxeiju">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/janceesjhieonguinto/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
+</picture>
+
+
+## Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,10 +54,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 
-## 👻 Pacman
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jieonxei/jieonxei/output/pacman-contribution-graph.svg">
-</picture>
 
