@@ -1,18 +1,19 @@
-
+<!--------
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/eN7atrf02IUAAAAC/the-quintessential-quintuplets-gotoubun-no-hanayome.gif" width="200">
 </div>
+-------->
 
-<br>
+<p align="center">
+  <img src="https://media.tenor.com/dF-PYwpJP0MAAAAj/nino-nakano-pet-the-cat.gif" width="100" alt="Nino Nakano pet the cat gif">
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=40&duration=2500&pause=1000&color=9B6AA5&center=true&vCenter=true&width=435&lines=yo+i'm+jieon" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/dF-PYwpJP0MAAAAj/nino-nakano-pet-the-cat.gif" width="50" alt="Nino Nakano pet the cat gif">
-</p>
 
 ## Tech Stack
 
